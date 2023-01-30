@@ -1,6 +1,6 @@
-# react-landing-page-qstation
+# Landing page made with React and Tailwind
 
-A frontend React project using Tailwind CSS. A simple landing page for a reimagined website of the bootcamp that I attended.
+A frontend React project using Tailwind CSS. A simple landing page for a reimagined website of the bootcamp (named QStation) that I attended.
 
 I used this as an opportunity to sharpen my React skills, and to learn Tailwind. There could be some improvements, namely using props in some places instead of copying the same code a few times.
 

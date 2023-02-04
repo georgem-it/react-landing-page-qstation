@@ -6,7 +6,7 @@ import Js from '../assets/jsnr.png'
 const Cards = () => {
     return (
         <div className='w-full py-[8rem] px-4 bg-white'>
-            <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8 '>
+            <div className='max-w-[88%] mx-auto grid md:grid-cols-3 gap-8 '>
                 <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
                     <img className='w-45 mx-auto mt-[-3rem] bg-white' src={Beginner} alt="" />
                     <h2 className='text-2xl font-bolt text-center py-8'>Beginners Front End</h2>

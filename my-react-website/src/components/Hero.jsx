@@ -4,9 +4,9 @@ import Typed from 'react-typed';
 const Hero = () => {
   return (
     <div className='text-white'>
-      <div className='max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
+      <div className='max-w-[900px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
         <p className='text-[#00E682] md:text-4xl sm:text-3xl text-3xl font-bold p-2'>The fastest way to employment in the IT sector</p>
-        <h1 className='md:text-6xl sm:text-5xl text-4xl font-bold md:py-6 py-4'>We offer the best IT Courses</h1>
+        <h1 className='mx-1 md:text-6xl sm:text-5xl text-4xl font-bold md:py-6 py-4'>We offer the best IT Courses</h1>
         <div className='flex justify-center items-center'>
             {/* <p className='md:text-5xl sm:text-4xl text-xl font-bold py-4'>fast, flexible financing for</p> */}
             <Typed className='md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2' strings={['Your ticket to the world of IT business', 'Educate yourself for the job of your future', 'Become competitive in the market with our IT training']} typeSpeed={40} backSpeed={30} loop/>

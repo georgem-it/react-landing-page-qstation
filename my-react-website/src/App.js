@@ -1,5 +1,5 @@
 import React from "react";
-import Analytics from "./components/Analytics";
+import Presentation from "./components/Presentation";
 import Cards from "./components/Cards";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
@@ -11,7 +11,7 @@ function App() {
     <div>
       <Navbar />
       <Hero />
-      <Analytics />
+      <Presentation />
       <Newsletter />
       <Cards />
       <Footer />

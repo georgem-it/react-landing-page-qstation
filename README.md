@@ -1,8 +1,14 @@
 # Landing page made with React and Tailwind
 
+Short Landing Page Demo:
+
+https://youtu.be/zunq2M50QI0
+
 A frontend React project using Tailwind CSS. A simple landing page for a reimagined website of the bootcamp (named QStation) that I attended.
 
-I used this as an opportunity to sharpen my React skills, and to learn Tailwind. There could be some improvements, namely using props in some places instead of copying the same code a few times.
+I used this as an opportunity to sharpen my React skills, and to learn Tailwind. I'm improving the code as i learn; for example, I refactored my code by making a new component, named IndividualCard, and implementing destructured props so as not to copy-paste the same element (card, in this case) 3 times in a row, but use props instead.
+
+I also used a package called react typed to animate the text in the hero part of the page.
 
 ## How to run on your local machine:
 

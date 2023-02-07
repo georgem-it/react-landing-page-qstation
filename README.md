@@ -10,6 +10,8 @@ I used this as an opportunity to sharpen my React skills, and to learn Tailwind.
 
 I also used a package called react typed to animate the text in the hero part of the page.
 
+The site is also fully responsive (not shown in the demo video above)!
+
 ## How to run on your local machine:
 
 1. Download repository

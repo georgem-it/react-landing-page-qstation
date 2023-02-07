@@ -1,7 +1,7 @@
 import React from 'react'
 import Raja from '../assets/raja.jpg'
 
-const Analytics = () => {
+const Presentation = () => {
     return (
         <div className='w-full bg-white py-16 px-4'>
             <div className='max-w-[88%] mx-auto grid md:grid-cols-2 gap-5'>
@@ -18,4 +18,4 @@ const Analytics = () => {
     )
 }
 
-export default Analytics
+export default Presentation

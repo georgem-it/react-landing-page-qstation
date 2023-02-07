@@ -6,7 +6,7 @@ I used this as an opportunity to sharpen my React skills, and to learn Tailwind.
 
 ## How to run on your local machine:
 
-1. Clone or Download repository
+1. Download repository
 2. Open folder in your IDE/Editor
 3. Open terminal, ``` npm install ```
 4. ``` cd my-react-website ```
